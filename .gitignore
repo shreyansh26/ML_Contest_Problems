@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/train.csv
+*/test.csv
+MNIST_Digit/test.csv
+MNIST_Digit/train.csv
+CreditCardFraudDetection/creditcard.csv
